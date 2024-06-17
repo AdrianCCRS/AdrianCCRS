@@ -28,7 +28,8 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santan
 Estoy enfocado en mejorar mis habilidades en Desarrollo Web. Me encantaría participar en proyectos de código abierto y colaborar con otros desarrolladores usando los conocimientos que estan a mi alcance.
 
 ## Contacto
-- [Correo Electrónico](mailto:yeadcato@gmail.com)
+[![Email](https://img.shields.io/badge/yeadcato@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010)](mailto:yeadcato@gmail.com)
+</br>
 
 <Radiohead best band, Can best rapper.>
 
