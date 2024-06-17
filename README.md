@@ -1,6 +1,6 @@
 ![](./Media/AdrianCCRS.png)
 
-# Perfil personal de Yeison Adrian Cáceres Torres ![](./Media/arepa%202.png)
+# ![](./Media/arepa%202.png) Perfil personal de Yeison Adrian Cáceres Torres 
 
 ## Sobre Mí
 Soy estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander. Apasionado por aprender y dar mi mejor esfuerzo.
