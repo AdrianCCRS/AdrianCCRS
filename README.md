@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santan
 - **Desarrollo de Software**: Programación en Python, Java
 - **Desarrollo de videojuegos**: Unity
 
-## Proyectos y Logros
+## Proyectos 
 - **LostSoul**
   - Proyecto sencillo de un videojuego desarrollado con JavaScript con la librería _Phaser_ y montado en una página implementada con Django
     - Repo -> (https://github.com/YeisonCcrs/LostSoul_V2)
