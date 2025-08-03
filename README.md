@@ -81,7 +81,6 @@ Java-based airline system applying graph algorithms for route optimization.
 ## 📫 Contact Me  
 [![Email](https://img.shields.io/badge/yeadcato@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010)](mailto:yeadcato@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-AdrianCCRS-181717?style=for-the-badge&logo=github)](https://github.com/AdrianCCRS)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YeisonAdrianCaceresTorres-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yeisonadriancacerestorres)  
 
 ---
 
